@@ -1,0 +1,40 @@
+g'i'tg'i'thttp://data-man.iask.in:8049/qa/public  前台地址
+
+
+Jw@N68PL
+
+ git地址：
+http://192.168.4.7:3000/product_team_1/qa-manager/commits/develop?page=1    
+
+git 账号密码：
+luoshujiang
+lsj123456
+
+测试库密码
+cdslyk912
+
+禅道地址及账号密码
+http://192.168.10.79/index.php?m=user&f=login&referer=L2luZGV4LnBocD9tPW15JmY9aW5kZXg=
+luoshujiang
+Jw@N68PL
+
+QQ下载文件夹地址
+C:\Users\luoshujiang\Documents\Tencent Files\1432037889\FileRecv
+
+QA项目地址
+http://192.168.4.7:3000/product_team_1/qa.git
+
+http://localhost:8080/qa/public?p=w2Tjj790i3PJ9yC_w_6BfJ41wBFRNu2Hq_iIjsRuWmMNY0HSMhn8Qia6n-XVpv1bDZlIcPxRlJnrx2nXGOCV2fv-DWXfeK_4sTAnWoySC9sQTpiSjV2RlwsI-_oevU66HXOahoi7k9Imwd1j6Dx2AaHIqEQqdjV47lX5pk_TTv-hyKhEKnY1eMIpr5cH3wJPavmUOxnzR30#
+
+项目合并步骤：
+$ git checkout master
+$ git merge develop
+$ git add .
+$ git commit -m "publish"
+$ git push
+
+项目发布
+http://192.168.10.71:8602/jenkins/loginError
+
+周华龙 2019/6/11 16:20:36
+（人工服务时间：法定工作日上午9:00~12:00；15:00~18:00）
